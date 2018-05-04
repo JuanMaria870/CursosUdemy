@@ -1,0 +1,8 @@
+Git + git hub
+
+git remote add origin https://github.com/Jiriarte87/udemy-heroes.git
+git remote set-url origin https://github.com/JuanMaria870/udemy-heroes.git  -> Con esto solvente el no poder acceder
+git push -u origin master -> sube los cambios de local a github
+git push --tags -> para subir los tags, por defecto no los sube
+
+git remote -v -> Para comprobar a que repositorio estoy atacando
